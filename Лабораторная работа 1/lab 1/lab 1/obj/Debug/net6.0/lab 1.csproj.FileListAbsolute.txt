@@ -1,0 +1,14 @@
+D:\ЗИиНИС\Лабораторная работа 1\lab 1\lab 1\bin\Debug\net6.0\lab 1.exe
+D:\ЗИиНИС\Лабораторная работа 1\lab 1\lab 1\bin\Debug\net6.0\lab 1.deps.json
+D:\ЗИиНИС\Лабораторная работа 1\lab 1\lab 1\bin\Debug\net6.0\lab 1.runtimeconfig.json
+D:\ЗИиНИС\Лабораторная работа 1\lab 1\lab 1\bin\Debug\net6.0\lab 1.dll
+D:\ЗИиНИС\Лабораторная работа 1\lab 1\lab 1\bin\Debug\net6.0\lab 1.pdb
+D:\ЗИиНИС\Лабораторная работа 1\lab 1\lab 1\obj\Debug\net6.0\lab 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЗИиНИС\Лабораторная работа 1\lab 1\lab 1\obj\Debug\net6.0\lab 1.AssemblyInfoInputs.cache
+D:\ЗИиНИС\Лабораторная работа 1\lab 1\lab 1\obj\Debug\net6.0\lab 1.AssemblyInfo.cs
+D:\ЗИиНИС\Лабораторная работа 1\lab 1\lab 1\obj\Debug\net6.0\lab 1.csproj.CoreCompileInputs.cache
+D:\ЗИиНИС\Лабораторная работа 1\lab 1\lab 1\obj\Debug\net6.0\lab 1.dll
+D:\ЗИиНИС\Лабораторная работа 1\lab 1\lab 1\obj\Debug\net6.0\refint\lab 1.dll
+D:\ЗИиНИС\Лабораторная работа 1\lab 1\lab 1\obj\Debug\net6.0\lab 1.pdb
+D:\ЗИиНИС\Лабораторная работа 1\lab 1\lab 1\obj\Debug\net6.0\lab 1.genruntimeconfig.cache
+D:\ЗИиНИС\Лабораторная работа 1\lab 1\lab 1\obj\Debug\net6.0\ref\lab 1.dll
